@@ -185,13 +185,14 @@ Exiting... Thank you!
 
 ### 💻 Project Structure
 
+'''bash
 StudentManagementSystem/
 ├── Main.java
 ├── Student.java
 ├── UndergraduateStudent.java
 ├── GraduateStudent.java
 └── StudentManagement.java
-
+```
 ---
 
 ### 📚 Learnings
