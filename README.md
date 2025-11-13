@@ -185,7 +185,7 @@ Exiting... Thank you!
 
 ### 💻 Project Structure
 
-'''bash
+```bash
 StudentManagementSystem/
 ├── Main.java
 ├── Student.java
